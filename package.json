@@ -1,0 +1,19 @@
+{
+  "name": "challenge-todo-app",
+  "version": "1.0.0",
+  "description": "The classic todo app with a few twists",
+  "main": "script.js",
+  "scripts": {
+    "sass": "sass --watch style/sass/style.scss style/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magali-Rezeau/Challenge-Todo-App.git"
+  },
+  "author": "Magali Rézeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magali-Rezeau/Challenge-Todo-App/issues"
+  },
+  "homepage": "https://github.com/Magali-Rezeau/Challenge-Todo-App#readme"
+}
